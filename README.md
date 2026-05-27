@@ -1,5 +1,6 @@
 # toastyvoid-timer
 A timer i coded in Python to burn some time.
+Latest version: 1.0
 
 ## Installation
 To install ToastyVoid's Timer, install git from [git-scm.com](git-scm.com) and then open CMD and run these commands:
